@@ -1,6 +1,7 @@
 This is text file made for experiment purpose learn github collabration 
 This is Updated text
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 This is added text.
 =======
 <<<<<<< HEAD
@@ -8,4 +9,8 @@ This is added text.
 This is more added text!!
 =======
 >>>>>>> parent of 6180b1a (Update index.txt)
+>>>>>>> Stashed changes
+=======
+This is added text.
+THis is more added text.
 >>>>>>> Stashed changes
